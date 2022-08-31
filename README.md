@@ -116,6 +116,7 @@ Note: Use loops for above problems
 ### JS Module 2:
 - [ ] Objects and its methods (Object.keys(), values(), entries())
 - [ ] Array
+ -  [ ] Array - flat()
 - [ ] Map and Set
 Garbage Collection
 Explore map(), filter(), reduce(), find(), some() and every() methods
@@ -156,6 +157,16 @@ Output -> true
 
 Array ->  [10, 1, 42, 36, 4, 75, 6, 97, 81, 19]
 Output -> false
+
+7. Provided array:
+[10, [1, 42], 36, [4, 75, [6, 97], 81], 19, 10]
+a. Flatten array to [10, 1, 42, 36, 4, 75, [6, 97], 81, 19, 10]
+b. Flatten array to [10, 1, 42, 36, 4, 75, [6, 97], 81, 19, 10]
+c. Implement logic to flatten such arrays for any level. All the arrays of any depth should be flattened to single depth
+
+
+Reference:
+1. [Array.prototype.flat() - JavaScript | MDN ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
 
 Module 3:                                                                                             Expected: 8 hours
 “this” keyword
