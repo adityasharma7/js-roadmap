@@ -73,7 +73,9 @@ https://uxplanet.org/figma-all-you-need-to-know-156b52b88e54
 https://www.seobility.net/en/wiki/Viewport
 https://flukeout.github.io/
 
-Module 1:                                                                                             Expected: 8 hours
+## JS Module
+
+### JS Module 1:                                                                                             Expected: 8 hours
 Introduction to JavaScript
 Variables
 var, let, and const
@@ -89,7 +91,8 @@ Loops & iteration
 The "switch" statement
 Functions
 Function expressions
-console object and its methods
+console object and its methods  
+
 Task:
 1. Find out about the most popular JavaScript frameworks. (At least 5)
 2. Find out about the most popular open-source JavaScript frameworks. (At least 5)
@@ -110,10 +113,10 @@ Generate and print another list such that:
 Note: Use loops for above problems
 
 
-
-Module 2:                                                                                             Expected: 8 hours
-Objects and its methods (Object.keys(), values(), entries())
-Map and Set
+### JS Module 2:
+- [ ] Objects and its methods (Object.keys(), values(), entries())
+- [ ] Array
+- [ ] Map and Set
 Garbage Collection
 Explore map(), filter(), reduce(), find(), some() and every() methods
 Strict keyword
