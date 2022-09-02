@@ -28,23 +28,23 @@ Task:
 3. Create a new branch, update ReadMe with description, Add LICENSE file (Apache 2.0) and create a Pull request assigning it to me 
 (https://github.com/adityasharma7/hc-js-assignment)
 
-Reference:
-https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
-https://dev.to/smitterhane/git-pull-vs-git-fetch-66m
-https://learngitbranching.js.org/
-https://git-scm.com/docs/git-config
-https://git-scm.com/docs/git-add 
-https://github.com/git-guides/git-init 
-https://www.atlassian.com/git/tutorials/inspecting-a-repository 
-https://www.atlassian.com/git/tutorials/using-branches 
-https://www.atlassian.com/git/tutorials/saving-changes/git-stash 
-https://git-scm.com/docs/git-pull 
-https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts 
-https://docs.github.com/en/get-started/quickstart/hello-world 
-https://docs.github.com/en/get-started/quickstart/fork-a-repo 
-https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests 
-https://www.simplilearn.com/tutorials/devops-tutorial/version-control 
-https://www.javatpoint.com/git-log 
+Reference:  
+1. https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+2. https://dev.to/smitterhane/git-pull-vs-git-fetch-66m
+3. https://learngitbranching.js.org/
+4. https://git-scm.com/docs/git-config
+5. https://git-scm.com/docs/git-add 
+6. https://github.com/git-guides/git-init 
+7. https://www.atlassian.com/git/tutorials/inspecting-a-repository 
+8. https://www.atlassian.com/git/tutorials/using-branches 
+9. https://www.atlassian.com/git/tutorials/saving-changes/git-stash 
+10. https://git-scm.com/docs/git-pull 
+11. https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts 
+12. https://docs.github.com/en/get-started/quickstart/hello-world 
+13. https://docs.github.com/en/get-started/quickstart/fork-a-repo 
+14. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests 
+15. https://www.simplilearn.com/tutorials/devops-tutorial/version-control 
+16. https://www.javatpoint.com/git-log 
 
 ## HTML:
 Introduction to HTML
