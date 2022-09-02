@@ -113,9 +113,9 @@ Generate and print another list such that:
   c. Print “List has a prime no” if there is a prime no in it
   d. Remove duplicate values from the list ()
 Note: Use loops for above problems
-6. What will be the output for below code:
-  a. typeof undefined
-  b. typeof null
+6. What will be the output for below code:  
+  console.log(typeof undefined)  
+  console.log(typeof null)
 
 
 ### JS Module 2:
