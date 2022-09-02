@@ -1,26 +1,26 @@
 # JS Roadmap
 
 ## Git Module  
-Version Control System - Benefits & types
-Git - Introduction
-Configuration - Git config
-Repository
-Commit
-Stages of a file - Untracked, Staged, Tracked & Modified/Dirty
-.gitignore
-Diffing
-Branching
-Log command
-Reset and Revert
-Cherry Pick
-Merge conflicts
-Stashing
-Remote
-Pull & Push
-GitHub & GitLab
-Merge Request
-Pull Request
-Forking
+- [ ] Version Control System - Benefits & types  
+- [ ] Git - Introduction
+- [ ] Configuration - Git config
+- [ ] Repository
+- [ ] Commit
+- [ ] Stages of a file - Untracked, Staged, Tracked & Modified/Dirty
+- [ ] .gitignore
+- [ ] Diffing
+- [ ] Branching
+- [ ] Log command
+- [ ] Reset and Revert
+- [ ] Cherry Pick
+- [ ] Merge conflicts
+- [ ] Stashing
+- [ ] Remote
+- [ ] Pull & Push
+- [ ] GitHub & GitLab
+- [ ] Merge Request
+- [ ] Pull Request
+- [ ] Forking
 
 Task:  
 1. Set your user name (user.name) and email address (user.email) using terminal
