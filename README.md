@@ -75,7 +75,8 @@ https://flukeout.github.io/
 
 ## JS Module
 
-### JS Module 1:                                                                                             Expected: 8 hours
+### JS Module 1:  
+
 Introduction to JavaScript
 Variables
 var, let, and const
@@ -83,6 +84,7 @@ Data types
 Primitives
 Type Conversions
 Operators
+typeof operator
 Comparisons
 Interaction: alert, prompt, confirm
 Conditional operators: if, '?'
@@ -111,6 +113,9 @@ Generate and print another list such that:
   c. Print “List has a prime no” if there is a prime no in it
   d. Remove duplicate values from the list ()
 Note: Use loops for above problems
+6. What will be the output for below code:
+  a. typeof undefined
+  b. typeof null
 
 
 ### JS Module 2:
