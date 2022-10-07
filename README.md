@@ -45,6 +45,7 @@ Reference:
 14. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests 
 15. https://www.simplilearn.com/tutorials/devops-tutorial/version-control 
 16. https://www.javatpoint.com/git-log 
+17. https://github.com/git-tips/tips
 
 ## HTML:
 Introduction to HTML
