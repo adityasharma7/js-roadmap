@@ -47,25 +47,25 @@ Reference:
 16. https://www.javatpoint.com/git-log 
 17. https://github.com/git-tips/tips
 
-## HTML:
-Introduction to HTML
-Elements and Attributes
-Classes and identifiers
-Forms & Inputs
-Semantic HTML
+## HTML: 
+- [ ] Introduction to HTML 
+- [ ] Elements and Attributes 
+- [ ] Classes and identifiers 
+- [ ] Forms & Inputs 
+- [ ] Semantic HTML
 
-Task:
-1. Create a Registration and Login page for an eCommerce website
+Task: 
+- [ ] Create a Registration and Login page for an eCommerce website
 
-Reference:
-1. https://blog.dareboost.com/en/2020/05/preload-prefetch-preconnect-resource-hints/
+Reference: 
+- [ ] https://blog.dareboost.com/en/2020/05/preload-prefetch-preconnect-resource-hints/
 
 ## CSS Basic Module:                                                                            Expected: 3 hours
-Introduction to CSS
-CSS Selectors
-Inline, Internal, and External CSS
-CSS Properties
-Viewport
+- [ ] Introduction to CSS 
+- [ ] CSS Selectors 
+- [ ] Inline, Internal, and External CSS 
+- [ ] CSS Properties 
+- [ ] Viewport
 
 Reference:
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
@@ -77,24 +77,24 @@ https://flukeout.github.io/
 ## JS Module
 
 ### JS Module 1:  
-
-Introduction to JavaScript
-Variables
-var, let, and const
-Data types
-Primitives
-Type Conversions
-Operators
-typeof operator
-Comparisons
-Interaction: alert, prompt, confirm
-Conditional operators: if, '?'
-Logical operators
-Loops & iteration
-The "switch" statement
-Functions
-Function expressions
-console object and its methods  
+ 
+- [ ] Introduction to JavaScript 
+- [ ] Variables 
+- [ ] var, let, and const 
+- [ ] Data types 
+- [ ] Primitives 
+- [ ] Type Conversions 
+- [ ] Operators 
+- [ ] typeof operator 
+- [ ] Comparisons 
+- [ ] Interaction: alert, prompt, confirm 
+- [ ] Conditional operators: if, '?' 
+- [ ] Logical operators 
+- [ ] Loops & iteration 
+- [ ] The "switch" statement 
+- [ ] Functions 
+- [ ] Function expressions 
+- [ ] console object and its methods  
 
 Task:
 1. Find out about the most popular JavaScript frameworks. (At least 5)
@@ -123,12 +123,13 @@ Note: Use loops for above problems
 - [ ] Objects and its methods (Object.keys(), values(), entries())
 - [ ] Array
  -  [ ] Array - flat()
-- [ ] Map and Set
-Garbage Collection
-Explore map(), filter(), reduce(), find(), some() and every() methods
-Strict keyword
-Cookies
-Arrow functions
+- [ ] Map and Set 
+- [ ] Garbage Collection 
+- [ ] Explore map(), filter(), reduce(), find(), some() and every() methods 
+- [ ] Strict keyword 
+- [ ] Cookies 
+- [ ] Arrow functions
+
 Task:
 1. Find the difference between Object and Map.
 2. Identify the difference between regular functions and arrow functions
@@ -174,25 +175,26 @@ c. Implement logic to flatten such arrays for any level. All the arrays of any d
 Reference:
 1. [Array.prototype.flat() - JavaScript | MDN ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
 
-Module 3:                                                                                             Expected: 8 hours
-“this” keyword
-Constructor functions and the "new" operator.
-Numbers
-Strings
-Array and its methods
-Hoisting
-Scoping
-Super keyword
-Error Handling, “try...catch”
-throw keyword
-Modules
-export/import 
-Dynamic import
-Nested functions
-Classes
-Class basic syntax
-Class Inheritance
-Extending built-in classes
+Module 3:                                                                                             Expected: 8 hours 
+- [ ] “this” keyword 
+- [ ] Constructor functions and the "new" operator. 
+- [ ] Numbers 
+- [ ] Strings 
+- [ ] Array and its methods 
+- [ ] Hoisting 
+- [ ] Scoping 
+- [ ] Super keyword 
+- [ ] Error Handling, “try...catch” 
+- [ ] throw keyword 
+- [ ] Modules 
+- [ ] export/import  
+- [ ] Dynamic import 
+- [ ] Nested functions 
+- [ ] Classes 
+- [ ] Class basic syntax
+- [ ] Class Inheritance 
+- [ ] Extending built-in classes  
+
 Task:
 1. Provided following array:
 
