@@ -506,3 +506,12 @@ Reference:
 - [ ] https://stackoverflow.com/questions/63084828/gitignore-for-an-ionic-project-with-android-target
 - [ ] https://developer.apple.com/design/human-interface-guidelines/ios/views/popovers/
 - [ ] https://www.youtube.com/watch?v=0ZiSjFj8tMI&list=RDCMUCZZPgUIorPao48a1tBYSDgg&start_radio=1
+
+
+## Common JavaScript references:
+- [W3 Schools] https://www.w3schools.com/js/ 
+- [MDN] https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- [DevDocs] https://devdocs.io/javascript/
+- [Scrimba] https://scrimba.com/topic/javascript
+- [GeeksForGeeks] https://www.geeksforgeeks.org/javascript/
+- [Javascript] https://www.javatpoint.com/javascript-tutorial
