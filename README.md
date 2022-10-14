@@ -74,6 +74,7 @@ https://uxplanet.org/figma-all-you-need-to-know-156b52b88e54
 https://www.seobility.net/en/wiki/Viewport
 https://flukeout.github.io/
 
+
 ## JS Module
 
 ### JS Module 1:  
@@ -507,6 +508,10 @@ Reference:
 - [ ] https://developer.apple.com/design/human-interface-guidelines/ios/views/popovers/
 - [ ] https://www.youtube.com/watch?v=0ZiSjFj8tMI&list=RDCMUCZZPgUIorPao48a1tBYSDgg&start_radio=1
 
+## Free icons for website 
+- [Iconscout](https://iconscout.com/)
+- [Fontawesome](https://fontawesome.com/)
+- [Flaticon](https://flaticon.com/)
 
 ## Common JavaScript references:
 - [W3 Schools] https://www.w3schools.com/js/ 
