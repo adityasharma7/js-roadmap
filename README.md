@@ -47,6 +47,14 @@ Reference:
 16. https://www.javatpoint.com/git-log 
 17. https://github.com/git-tips/tips
 
+## BEST DOCUMENTATIONS:
+- [W3 Schools] https://www.w3schools.com/js/ 
+- [MDN] https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- [DevDocs] https://devdocs.io/javascript/
+- [Scrimba] https://scrimba.com/topic/javascript
+- [GeeksForGeeks] https://www.geeksforgeeks.org/javascript/
+- [Javascript] https://www.javatpoint.com/javascript-tutorial
+
 ## HTML: 
 - [ ] Introduction to HTML 
 - [ ] Elements and Attributes 
