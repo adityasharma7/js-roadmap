@@ -74,7 +74,13 @@ https://uxplanet.org/figma-all-you-need-to-know-156b52b88e54
 https://www.seobility.net/en/wiki/Viewport
 https://flukeout.github.io/
 
-## JS Module
+## Website Animations Library
+[Animate On Scroll Library](https://michalsnik.github.io/aos/) <br>
+[animista.net](https://animista.net/) <br>
+[scrollrevealjs.org](https://scrollrevealjs.org/) <br>
+[swiperjs.com](https://swiperjs.com/) <br>
+[shapedivider.app](https://www.shapedivider.app/) <br>
+[neumorphism.io](https://neumorphism.io/) 
 
 ### JS Module 1:  
  
