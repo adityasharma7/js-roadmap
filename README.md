@@ -230,14 +230,14 @@ let a;
 
 
 
-Module 4:                                                                                             Expected: 8 hours
-JSON and its methods(toJSON)
-Rest Parameters  
-arguments keyword  
-Spread Syntax  
-Recursion and Stack
-Variable Scope
-Regular Expressions
+Module 4:
+- [ ] JSON and its methods(toJSON)
+- [ ] Rest Parameters  
+- [ ] arguments keyword  
+- [ ] Spread Syntax  
+- [ ] Recursion and Stack
+- [ ] Variable Scope
+- [ ] Regular Expressions
 Task:
 Implement code to deep clone an object using JSON methods
 Implement regular expression for name with letters
