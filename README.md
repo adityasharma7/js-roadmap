@@ -74,6 +74,11 @@ https://uxplanet.org/figma-all-you-need-to-know-156b52b88e54
 https://www.seobility.net/en/wiki/Viewport
 https://flukeout.github.io/
 
+## Free icons for website 
+- [ ] Iconscout : https://iconscout.com/
+- [ ] Fontawesome: https://fontawesome.com/
+- [ ] Flaticon : https://flaticon.com/
+
 ## JS Module
 
 ### JS Module 1:  
