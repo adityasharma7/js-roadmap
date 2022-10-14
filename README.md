@@ -509,6 +509,14 @@ Reference:
 - [ ] https://www.youtube.com/watch?v=0ZiSjFj8tMI&list=RDCMUCZZPgUIorPao48a1tBYSDgg&start_radio=1
 
 ## Free icons for website 
-- [ ] Iconscout : https://iconscout.com/
-- [ ] Fontawesome: https://fontawesome.com/
-- [ ] Flaticon : https://flaticon.com/
+- [Iconscout](https://iconscout.com/)
+- [Fontawesome](https://fontawesome.com/)
+- [Flaticon](https://flaticon.com/)
+
+## Common JavaScript references:
+- [W3 Schools] https://www.w3schools.com/js/ 
+- [MDN] https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- [DevDocs] https://devdocs.io/javascript/
+- [Scrimba] https://scrimba.com/topic/javascript
+- [GeeksForGeeks] https://www.geeksforgeeks.org/javascript/
+- [Javascript] https://www.javatpoint.com/javascript-tutorial
