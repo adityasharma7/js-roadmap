@@ -74,10 +74,6 @@ https://uxplanet.org/figma-all-you-need-to-know-156b52b88e54
 https://www.seobility.net/en/wiki/Viewport
 https://flukeout.github.io/
 
-## Free icons for website 
-- [ ] Iconscout : https://iconscout.com/
-- [ ] Fontawesome: https://fontawesome.com/
-- [ ] Flaticon : https://flaticon.com/
 
 ## JS Module
 
@@ -511,3 +507,8 @@ Reference:
 - [ ] https://stackoverflow.com/questions/63084828/gitignore-for-an-ionic-project-with-android-target
 - [ ] https://developer.apple.com/design/human-interface-guidelines/ios/views/popovers/
 - [ ] https://www.youtube.com/watch?v=0ZiSjFj8tMI&list=RDCMUCZZPgUIorPao48a1tBYSDgg&start_radio=1
+
+## Free icons for website 
+- [ ] Iconscout : https://iconscout.com/
+- [ ] Fontawesome: https://fontawesome.com/
+- [ ] Flaticon : https://flaticon.com/
