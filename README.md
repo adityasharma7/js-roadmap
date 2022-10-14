@@ -506,3 +506,11 @@ Reference:
 - [ ] https://stackoverflow.com/questions/63084828/gitignore-for-an-ionic-project-with-android-target
 - [ ] https://developer.apple.com/design/human-interface-guidelines/ios/views/popovers/
 - [ ] https://www.youtube.com/watch?v=0ZiSjFj8tMI&list=RDCMUCZZPgUIorPao48a1tBYSDgg&start_radio=1
+
+### Top Javascript Frameworks and Libraries to Learn
+
+- Reactjs (Frontent) -> official Documentation https://reactjs.org/docs/getting-started.html
+- Angularjs (Frontent) -> official Documentation https://angular.io/docs
+- Nodejs (Backend) -> official Documentation https://nodejs.org/docs/latest-v17.x/api/
+- Vuejs (Frontent) -> official Documentation https://vuejs.org/guide/introduction.html
+- jQuery (Frontent) -> official Documentation https://api.jquery.com/
