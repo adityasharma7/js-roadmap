@@ -196,7 +196,7 @@ Module 3:                                                                       
 - [ ] Extending built-in classes  
 
 Task:
-1. Provided following array:
+- [ ] Provided following array:
 
 [
 {“id”: 1, “name”: “Amit Kumar”, “age”: 25},
@@ -206,15 +206,15 @@ Task:
 {“id”: 5, “name”: “Ajay Jain”, “age”: 17},
 ]
 
-  a. Print id and name of the youngest and oldest person
-  b. Create another list having id and name of all the person above 18 years
-  c. Find the average age
-  d. Create 2 list with names starting with only ‘A’ and ‘R’ respectively
+  - [ ] Print id and name of the youngest and oldest person
+  - [ ] Create another list having id and name of all the person above 18 years
+  - [ ] Find the average age
+  - [ ] Create 2 list with names starting with only ‘A’ and ‘R’ respectively
 
 
 Note: Use map(), filter(), reduce, some() and every() methods for above problems
 
-2.  Try the below code and identify which of the below programs are a valid case of hoisting?
+- [ ]  Try the below code and identify which of the below programs are a valid case of hoisting?
 
 Program 1:
 a = 10;
@@ -239,129 +239,129 @@ Module 4:
 - [ ] Variable Scope
 - [ ] Regular Expressions
 Task:
-Implement code to deep clone an object using JSON methods
-Implement regular expression for name with letters
-Implement code for sum using recursion
+- [ ] Implement code to deep clone an object using JSON methods
+- [ ] Implement regular expression for name with letters
+- [ ] Implement code for sum using recursion
 Reference:
 1. 
 
 Module 5:                                                                                             Expected: 8 hours
-DOM
-Searching: getElement*, querySelector*
-Introduction to Events
-Introduction to browser events
-Bubbling and capturing
-Event delegation
-Browser default actions
-Dispatching custom events
+- [ ] DOM
+- [ ] Searching: getElement*, querySelector*
+- [ ] Introduction to Events
+- [ ] Introduction to browser events
+- [ ] Bubbling and capturing
+- [ ] Event delegation
+- [ ] Browser default actions
+- [ ] Dispatching custom events
 
 Task: -
-Implement 2 event listener on click event of which one executes on bubbling and while other on capture
+- [ ] Implement 2 event listener on click event of which one executes on bubbling and while other on capture
 Reference:
-1. https://javascript.info/bubbling-and-capturing
+- [ ]  https://javascript.info/bubbling-and-capturing
 
 Module 6:                                                                                             Expected: 8 hours
-UI Events
-Mouse events basics
-Scrolling
-Forms, controls
-Form properties and methods
-Focusing: focus/blur
-Forms: event and method submit
-Page: DOMContentLoaded, load, beforeunload, unload
-Scripts: async, defer
+- [ ] UI Events
+- [ ] Mouse events basics
+- [ ] Scrolling
+- [ ] Forms, controls
+- [ ] Form properties and methods
+- [ ] Focusing: focus/blur
+- [ ] Forms: event and method submit
+- [ ] Page: DOMContentLoaded, load, beforeunload, unload
+- [ ] Scripts: async, defer
 
 Task: -
-To change the background color of the second column of a table having “n ” rows on click by using querySelector.
+- [ ] To change the background color of the second column of a table having “n ” rows on click by using querySelector.
 
 
 Module 7:                                                                                             Expected: 8 hours
-Resource loading: onload and onerror
-Popups and window methods
-Binary data, files
-LocalStorage, sessionStorage
-Static properties and methods
-Private and protected properties and methods
-Class checking: "instanceof"
+- [ ] Resource loading: onload and onerror
+- [ ] Popups and window methods
+- [ ] Binary data, files
+- [ ] LocalStorage, sessionStorage
+- [ ] Static properties and methods
+- [ ] Private and protected properties and methods
+- [ ] Class checking: "instanceof"
 
 Task: -
-To create a textarea and if a user makes changes to it without saving then show an alert that data is not saved. (Similar to https://stackoverflow.com/questions/ask)
-Change the color of the cell to red when the user clicks on a cell and revert when the user again clicks.
+- [ ] To create a textarea and if a user makes changes to it without saving then show an alert that data is not saved. (Similar to https://stackoverflow.com/questions/ask)
+- [ ] Change the color of the cell to red when the user clicks on a cell and revert when the user again clicks.
 
 
 Module 8:                                                                                             Expected: 8 hours
-Blob
-File and FileReader
-REST API
-GraphQL
-XMLHttpRequest and AJAX
-Fetch API
-Fetch methods
-Preflight Request
-FormData
-URL objects
+- [ ] Blob
+- [ ] File and FileReader
+- [ ] REST API
+- [ ] GraphQL
+- [ ] XMLHttpRequest and AJAX
+- [ ] Fetch API
+- [ ] Fetch methods
+- [ ] Preflight Request
+- [ ] FormData
+- [ ] URL objects
 
 Task: - 
-Change image on runtime when it is not available on the specified path while loading the page.
+- [ ] Change image on runtime when it is not available on the specified path while loading the page.
 
 
 Module 9:                                                                                             Expected: 8 hours
-Date and time
-Object to primitive conversion
-Scheduling: setTimeout and setInterval
-Callbacks
-Promise
-Promises chaining
-Error handling with promises
-Promise API
-Promisification
-Async/await
-The "new Function" syntax
+- [ ] Date and time
+- [ ] Object to primitive conversion
+- [ ] Scheduling: setTimeout and setInterval
+- [ ] Callbacks
+- [ ] Promise
+- [ ] Promises chaining
+- [ ] Error handling with promises
+- [ ] Promise API
+- [ ] Promisification
+- [ ] Async/await
+- [ ] The "new Function" syntax
 Task: -
-Implement a simple code to use a Promise
-Implement code to handle multiple promises. You have to fetch information of 5 different products from API
+- [ ] Implement a simple code to use a Promise
+- [ ] Implement code to handle multiple promises. You have to fetch information of 5 different products from API
 
 
 Module 10:                                                                                             Expected: 8 hours
-Function binding
-Custom errors, extending Error
-Async iterators and generators
-Destructuring assignment
-ECMAScript 5(EC5)
-ECMAScript 6(EC6)
+- [ ] Function binding
+- [ ] Custom errors, extending Error
+- [ ] Async iterators and generators
+- [ ] Destructuring assignment
+- [ ] ECMAScript 5(EC5)
+- [ ] ECMAScript 6(EC6)
 
 
 Module 11:                                                                                             Expected: 8 hours
-WebSocket
-SPA(Single Page Applications)
-SEO(Search Engine Optimization) and how it works with SPA?
-SSR(Server Side Rendering)
-CORS (Cross-Origin Resource Sharing)
-JavaScript & Typescript Best Practices
+- [ ] WebSocket
+- [ ] SPA(Single Page Applications)
+- [ ] SEO(Search Engine Optimization) and how it works with SPA?
+- [ ] SSR(Server Side Rendering)
+- [ ] CORS (Cross-Origin Resource Sharing)
+- [ ] JavaScript & Typescript Best Practices
 
 Task:
-Verify your code comply with the best practices and fix them if required.
+- [ ] Verify your code comply with the best practices and fix them if required.
 
 Reference:
-https://www.w3.org/wiki/JavaScript_best_practices
-https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
-​​https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/crossorigin 
+- [ ] https://www.w3.org/wiki/JavaScript_best_practices
+- [ ] https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+- [ ] ​​https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/crossorigin 
 
 
 CSS Advanced                                                                              Expected: 8 hours
-Object fit property
-Media Queries
-Box Model
-Specificity
-CSS Grid
-Flexbox
-Comments
-Responsive design
-Material Design
-Figma
-NPM and Yarn
+- [ ] Object fit property
+- [ ] Media Queries
+- [ ] Box Model
+- [ ] Specificity
+- [ ] CSS Grid
+- [ ] Flexbox
+- [ ] Comments
+- [ ] Responsive design
+- [ ] Material Design
+- [ ] Figma
+- [ ] NPM and Yarn
 Task:
-You are writing a responsive layout for a website that has dramatically different layouts for mobile and desktop. Which of the following media queries would you use and why?
+- [ ] You are writing a responsive layout for a website that has dramatically different layouts for mobile and desktop. Which of the following media queries would you use and why?
 
 @media (max-width: …
 @media (min-width: …
@@ -375,134 +375,134 @@ Provide links for all sources and time codes for videos.
 Vue.js Training
 
 Module 1:                                                                                              Expected: 8 hours
-Vue.js : Introduction
-The Vue Instance
-Data and Methods
-Instance Lifecycle Hooks
-Life cycle diagram
-Template Syntax
-Computed Property and Watchers
+- [ ] Vue.js : Introduction
+- [ ] The Vue Instance
+- [ ] Data and Methods
+- [ ] Instance Lifecycle Hooks
+- [ ] Life cycle diagram
+- [ ] Template Syntax
+- [ ] Computed Property and Watchers
 
 Task:
-Create a basic “Hello World!” Vue application.
+- [ ] Create a basic “Hello World!” Vue application.
 
 Module 2:                                                                                             Expected: 8 hours
-Declarative Rendering
-Conditionals and Loops
-Class and Style Bindings
-List Rendering
-Event Handling
-Form Input Bindings
-Component Basics
+- [ ] Declarative Rendering
+- [ ] Conditionals and Loops
+- [ ] Class and Style Bindings
+- [ ] List Rendering
+- [ ] Event Handling
+- [ ] Form Input Bindings
+- [ ] Component Basics
 Task:
-Create a  new branch from last task and Implement a Login and Registration page
+- [ ] Create a  new branch from last task and Implement a Login and Registration page
 
 Module 3:                                                                                             Expected: 8 hours
-Transitions
-Props
-Filters
-Directives
-Custom Directives
-Mixins
-Slots
+- [ ] Transitions
+- [ ] Props
+- [ ] Filters
+- [ ] Directives
+- [ ] Custom Directives
+- [ ] Mixins
+- [ ] Slots
 
 Module 4:                                                                                              Expected: 8 hours
-Routing
-Routing Guards
-Working with API
-Axios
+- [ ] Routing
+- [ ] Routing Guards
+- [ ] Working with API
+- [ ] Axios
 
 Task: - 
-Create a ecommerce-clone branch and push files & folders generated for new fresh app using Vue CLI 
-Create a  new branch from the last task branch and Implement e-commerce web application (Clone any popular website like Amazon, Flipkart etc or any template of your choice) with a home page and top navigation with dead links.
-Create a  new branch from the last task branch and add a category page which lists all products belonging to the category.  Create a new PR with the last task branch as the target branch.
-You could use Fakestoreapi (https://fakestoreapi.com/) or any other public APIs (https://github.com/public-apis/public-apis)
+- [ ] Create a ecommerce-clone branch and push files & folders generated for new fresh app using Vue CLI 
+- [ ] Create a  new branch from the last task branch and Implement e-commerce web application (Clone any popular website like Amazon, Flipkart etc or any template of your choice) with a home page and top navigation with dead links.
+- [ ] Create a  new branch from the last task branch and add a category page which lists all products belonging to the category.  Create a new PR with the last task branch as the target branch.
+- [ ] You could use Fakestoreapi (https://fakestoreapi.com/) or any other public APIs (https://github.com/public-apis/public-apis)
 
 Module 5:                                                                                              Expected: 8 hours
-1. Event Bus
-2. State Management
-3. Vuex
-4. Composition API
+- [ ] Event Bus
+- [ ] State Management
+- [ ] Vuex
+- [ ] Composition API
 Task: - 
-Create a  new branch from the last task branch. Add features to sort and filter out products based upon price, color or any other field on the category page. Create a new PR with the last task branch as the target branch.
+- [ ] Create a  new branch from the last task branch. Add features to sort and filter out products based upon price, color or any other field on the category page. Create a new PR with the last task branch as the target branch.
 Create a  new branch from the last task branch. Implement product details page.  Create a new PR with the last task branch as the target branch.
 
 Module 6:                                                                                              Expected: 8 hours
-Debugging
-Interceptor and its use with Axios
-Internationalisation/Localisation in applications
-Using Vue I18n (https://kazupon.github.io/vue-i18n/)
+- [ ] Debugging
+- [ ] Interceptor and its use with Axios
+- [ ] Internationalisation/Localisation in applications
+- [ ] Using Vue I18n (https://kazupon.github.io/vue-i18n/)
 
 Task: -
-Implement Registration and Login page.
-Store the token in local storage
-Implement a interceptor which adds token to headers
-Use Axios cache plugin to cache product API
-Update application labels to use internationalization
+- [ ] Implement Registration and Login page.
+- [ ] Store the token in local storage
+- [ ] Implement a interceptor which adds token to headers
+- [ ] Use Axios cache plugin to cache product API
+- [ ] Update application labels to use internationalization
 
 
 
 Module 7:                                                                                             Expected: 8 hours
-PWA(Progressive Web App)
-Service Worker
-Precaching
+- [ ] PWA(Progressive Web App)
+- [ ] Service Worker
+- [ ] Precaching
 Reference:
-1. https://developers.google.com/web/tools/workbox/modules/workbox-precaching
+- [ ] https://developers.google.com/web/tools/workbox/modules/workbox-precaching
 
 
 
 
 Module 8: 
-SSR in Vue and prerendering
-Dynamic content rendering in Vue
-Vue best practices
-Modes and Environment Variables
-Dev Tools ()
-Postman
+- [ ] SSR in Vue and prerendering
+- [ ] Dynamic content rendering in Vue
+- [ ] Vue best practices
+- [ ] Modes and Environment Variables
+- [ ] Dev Tools ()
+- [ ]  Postman
 Task:
-Verify your code comply with the best practices and fix them if required.
+- [ ] Verify your code comply with the best practices and fix them if required.
 
 Module Resources:
-https://vuejs.org/v2/style-guide/
-https://v3.vuejs.org/style-guide
-https://cli.vuejs.org/guide/mode-and-env.html#modes
+- [ ] https://vuejs.org/v2/style-guide/
+- [ ] https://v3.vuejs.org/style-guide
+- [ ] https://cli.vuejs.org/guide/mode-and-env.html#modes
 
 Ionic Training
-Ionic Framework - Introduction
-Hybrid, cross platform and native apps
-Cordova and Capacitor
-Webview
-Components
-Slots
+- [ ] Ionic Framework - Introduction
+- [ ] Hybrid, cross platform and native apps
+- [ ] Cordova and Capacitor
+- [ ] Webview
+- [ ] Components
+- [ ] Slots
 
 Task:
-Build Netflix/Twitter UI using Ionic components.
+- [ ] Build Netflix/Twitter UI using Ionic components.
 Reference:
-https://www.youtube.com/playlist?list=PLgsLdFrhfGLTYUUf5dwD6YiT9a1O9QHoE
-https://www.youtube.com/watch?v=_X0FzNBKEZg&list=PLgsLdFrhfGLQ9tz-akOEucCch8HjHgOlc
-https://www.youtube.com/watch?v=qoH3-JISa4w&list=PLgsLdFrhfGLRNhU4DL8a0ONEAUhcAfdXR
-https://youtu.be/3_XPLojd83I
-https://youtu.be/xCZmlkKc36Y
-https://youtu.be/zyBY4xTga8M 
-https://youtu.be/lhY79cBaH_o
-https://youtu.be/WKwfP_6e044
-https://youtu.be/P4ok5td5_gY 
-https://youtu.be/ySVNifnuq3Q 
-https://youtu.be/n0q8E615eOI
-https://youtu.be/xSy73Fx0qlE 
-https://youtu.be/-rkHVDLSSrU 
-https://youtu.be/PY5xqeWYpTw 
-https://youtu.be/Xk_Jc7BwJqw 
-https://youtu.be/OobddatK434 
-https://ionicframework.com/docs/core-concepts/fundamentals
-https://ionicframework.com/getting-started
-https://ionicframework.com/docs/vue/quickstart
-https://ionicframework.com/docs/core-concepts/cross-platform
-https://ionicframework.com/docs/core-concepts/webview
-https://www.youtube.com/channel/UC1zRV-9GAScMjydTPRf-tSw
-https://capacitorjs.com/
-https://capacitorjs.com/docs
-https://www.youtube.com/watch?v=d70jQxQuSeY
-https://stackoverflow.com/questions/63084828/gitignore-for-an-ionic-project-with-android-target
-https://developer.apple.com/design/human-interface-guidelines/ios/views/popovers/
-https://www.youtube.com/watch?v=0ZiSjFj8tMI&list=RDCMUCZZPgUIorPao48a1tBYSDgg&start_radio=1
+- [ ] https://www.youtube.com/playlist?list=PLgsLdFrhfGLTYUUf5dwD6YiT9a1O9QHoE
+- [ ] https://www.youtube.com/watch?v=_X0FzNBKEZg&list=PLgsLdFrhfGLQ9tz-akOEucCch8HjHgOlc
+- [ ] https://www.youtube.com/watch?v=qoH3-JISa4w&list=PLgsLdFrhfGLRNhU4DL8a0ONEAUhcAfdXR
+- [ ] https://youtu.be/3_XPLojd83I
+- [ ] https://youtu.be/xCZmlkKc36Y
+- [ ] https://youtu.be/zyBY4xTga8M 
+- [ ] https://youtu.be/lhY79cBaH_o
+- [ ]https://youtu.be/WKwfP_6e044
+- [ ] https://youtu.be/P4ok5td5_gY 
+- [ ] https://youtu.be/ySVNifnuq3Q 
+- [ ] https://youtu.be/n0q8E615eOI
+- [ ] https://youtu.be/xSy73Fx0qlE 
+- [ ] https://youtu.be/-rkHVDLSSrU 
+- [ ] https://youtu.be/PY5xqeWYpTw 
+- [ ] https://youtu.be/Xk_Jc7BwJqw 
+- [ ] https://youtu.be/OobddatK434 
+- [ ] https://ionicframework.com/docs/core-concepts/fundamentals
+- [ ] https://ionicframework.com/getting-started
+- [ ] https://ionicframework.com/docs/vue/quickstart
+- [ ] https://ionicframework.com/docs/core-concepts/cross-platform
+- [ ] https://ionicframework.com/docs/core-concepts/webview
+- [ ] https://www.youtube.com/channel/UC1zRV-9GAScMjydTPRf-tSw
+- [ ] https://capacitorjs.com/
+- [ ] https://capacitorjs.com/docs
+- [ ] https://www.youtube.com/watch?v=d70jQxQuSeY
+- [ ] https://stackoverflow.com/questions/63084828/gitignore-for-an-ionic-project-with-android-target
+- [ ] https://developer.apple.com/design/human-interface-guidelines/ios/views/popovers/
+- [ ] https://www.youtube.com/watch?v=0ZiSjFj8tMI&list=RDCMUCZZPgUIorPao48a1tBYSDgg&start_radio=1
