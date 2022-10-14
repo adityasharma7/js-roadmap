@@ -521,7 +521,6 @@ Reference:
 - [Scrimba] https://scrimba.com/topic/javascript
 - [GeeksForGeeks] https://www.geeksforgeeks.org/javascript/
 - [Javascript] https://www.javatpoint.com/javascript-tutorial
->>>>>>> faa3bfe1fad8166f7117d58c1c4953bf4464f1b7
 
 ### Top Javascript Frameworks and Libraries to Learn
 
