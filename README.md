@@ -531,3 +531,12 @@ Reference:
 
 #### Backend
 - [Nodejs](https://nodejs.org/docs/latest/api/)
+
+
+## Website Animations Library
+- [Animate On Scroll Library](https://michalsnik.github.io/aos/)
+- [animista.net](https://animista.net/)
+- [scrollrevealjs.org](https://scrollrevealjs.org/)
+- [swiperjs.com](https://swiperjs.com/)
+- [shapedivider.app](https://www.shapedivider.app/)
+- [neumorphism.io](https://neumorphism.io/)
