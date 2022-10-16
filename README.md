@@ -520,3 +520,14 @@ Reference:
 - [Scrimba] https://scrimba.com/topic/javascript
 - [GeeksForGeeks] https://www.geeksforgeeks.org/javascript/
 - [Javascript] https://www.javatpoint.com/javascript-tutorial
+
+### Top Javascript Frameworks and Libraries to Learn
+
+#### Frontend
+- [Reactjs](https://reactjs.org/docs/getting-started.html)
+- [Vuejs](https://vuejs.org/guide/introduction.html)
+- [Angular](https://angular.io/docs)
+- [jQuery](https://api.jquery.com/)
+
+#### Backend
+- [Nodejs](https://nodejs.org/docs/latest/api/)
