@@ -75,6 +75,8 @@ https://www.seobility.net/en/wiki/Viewport
 https://flukeout.github.io/
 
 
+## JS Module
+
 ### JS Module 1:  
  
 - [ ] Introduction to JavaScript 
@@ -506,10 +508,35 @@ Reference:
 - [ ] https://developer.apple.com/design/human-interface-guidelines/ios/views/popovers/
 - [ ] https://www.youtube.com/watch?v=0ZiSjFj8tMI&list=RDCMUCZZPgUIorPao48a1tBYSDgg&start_radio=1
 
+## Free icons for website 
+- [Iconscout](https://iconscout.com/)
+- [Fontawesome](https://fontawesome.com/)
+- [Flaticon](https://flaticon.com/)
+
+## Common JavaScript references:
+- [W3 Schools] https://www.w3schools.com/js/ 
+- [MDN] https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- [DevDocs] https://devdocs.io/javascript/
+- [Scrimba] https://scrimba.com/topic/javascript
+- [GeeksForGeeks] https://www.geeksforgeeks.org/javascript/
+- [Javascript] https://www.javatpoint.com/javascript-tutorial
+
+### Top Javascript Frameworks and Libraries to Learn
+
+#### Frontend
+- [Reactjs](https://reactjs.org/docs/getting-started.html)
+- [Vuejs](https://vuejs.org/guide/introduction.html)
+- [Angular](https://angular.io/docs)
+- [jQuery](https://api.jquery.com/)
+
+#### Backend
+- [Nodejs](https://nodejs.org/docs/latest/api/)
+
+
 ## Website Animations Library
-[Animate On Scroll Library](https://michalsnik.github.io/aos/) <br>
-[animista.net](https://animista.net/) <br>
-[scrollrevealjs.org](https://scrollrevealjs.org/) <br>
-[swiperjs.com](https://swiperjs.com/) <br>
-[shapedivider.app](https://www.shapedivider.app/) <br>
-[neumorphism.io](https://neumorphism.io/) 
+- [Animate On Scroll Library](https://michalsnik.github.io/aos/)
+- [animista.net](https://animista.net/)
+- [scrollrevealjs.org](https://scrollrevealjs.org/)
+- [swiperjs.com](https://swiperjs.com/)
+- [shapedivider.app](https://www.shapedivider.app/)
+- [neumorphism.io](https://neumorphism.io/)
