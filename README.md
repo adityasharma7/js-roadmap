@@ -508,7 +508,6 @@ Reference:
 - [ ] https://developer.apple.com/design/human-interface-guidelines/ios/views/popovers/
 - [ ] https://www.youtube.com/watch?v=0ZiSjFj8tMI&list=RDCMUCZZPgUIorPao48a1tBYSDgg&start_radio=1
 
-=======
 ## Free icons for website 
 - [Iconscout](https://iconscout.com/)
 - [Fontawesome](https://fontawesome.com/)
@@ -524,8 +523,11 @@ Reference:
 
 ### Top Javascript Frameworks and Libraries to Learn
 
-- Reactjs (Frontent) -> official Documentation https://reactjs.org/docs/getting-started.html
-- Angularjs (Frontent) -> official Documentation https://angular.io/docs
-- Nodejs (Backend) -> official Documentation https://nodejs.org/docs/latest-v17.x/api/
-- Vuejs (Frontent) -> official Documentation https://vuejs.org/guide/introduction.html
-- jQuery (Frontent) -> official Documentation https://api.jquery.com/
+#### Frontend
+- [Reactjs](https://reactjs.org/docs/getting-started.html)
+- [Vuejs](https://vuejs.org/guide/introduction.html)
+- [Angular](https://angular.io/docs)
+- [jQuery](https://api.jquery.com/)
+
+#### Backend
+- [Nodejs](https://nodejs.org/docs/latest/api/)
