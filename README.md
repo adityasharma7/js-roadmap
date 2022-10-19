@@ -508,6 +508,14 @@ Reference:
 - [ ] https://developer.apple.com/design/human-interface-guidelines/ios/views/popovers/
 - [ ] https://www.youtube.com/watch?v=0ZiSjFj8tMI&list=RDCMUCZZPgUIorPao48a1tBYSDgg&start_radio=1
 
+
+## JavaScript Design Patterns  
+
+### Builder pattern
+- [ ] [JavaScript Design Patterns #10 - Builder Pattern by  DevSage](https://youtu.be/McF9ak0kKjA)
+
+
+
 ## Free icons for website 
 - [Iconscout](https://iconscout.com/)
 - [Fontawesome](https://fontawesome.com/)
