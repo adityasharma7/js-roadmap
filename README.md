@@ -213,13 +213,13 @@ Task:
     Note: Use map(), filter(), reduce, some() and every() methods for above problems
 
 2. Try the below code and identify which of the below programs are a valid case of hoisting?
-    - Program 1:
+    1. Program 1:
       ```
       a = 10;
       console.log(a);
       var a;
       ```
-    - Program 2:
+    2. Program 2:
       ```
       a = 5;
       console.log(a);
