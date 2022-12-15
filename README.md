@@ -548,9 +548,3 @@ Reference:
 - [shapedivider.app](https://www.shapedivider.app/)
 - [neumorphism.io](https://neumorphism.io/)
 
-
-# Project Contributors⭐ 
-
-<a href="https://github.com/adityasharma7/js-roadmap/graphs/contributors" align="center">
-  <img src="https://contrib.rocks/image?repo=adityasharma7/js-roadmap" /> 
-</a>
