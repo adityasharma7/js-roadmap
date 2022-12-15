@@ -471,6 +471,7 @@ Reference:
 - [ ] Webview
 - [ ] Components
 - [ ] Slots
+- [ ] Debugging
 
 Task:
 1. Build Netflix/Twitter UI using Ionic components.
@@ -504,6 +505,7 @@ Reference:
 26. https://stackoverflow.com/questions/63084828/gitignore-for-an-ionic-project-with-android-target
 27. https://developer.apple.com/design/human-interface-guidelines/ios/views/popovers/
 28. https://www.youtube.com/watch?v=0ZiSjFj8tMI&list=RDCMUCZZPgUIorPao48a1tBYSDgg&start_radio=1
+29. https://ionicframework.com/docs/troubleshooting/debugging
 
 
 ## JavaScript Design Patterns  
