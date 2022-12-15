@@ -173,7 +173,7 @@ Task:
 Reference:
 1. [Array.prototype.flat() - JavaScript | MDN ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
 
-Module 3:                                                                                             Expected: 8 hours 
+### Module 3:
 - [ ] “this” keyword 
 - [ ] Constructor functions and the "new" operator. 
 - [ ] Numbers 
