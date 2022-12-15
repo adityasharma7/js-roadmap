@@ -1,6 +1,6 @@
 # JS Roadmap
 
-## Git Module  
+## Git  
 - [ ] Version Control System - Benefits & types  
 - [ ] Git - Introduction
 - [ ] Configuration - Git config
@@ -60,7 +60,7 @@ Task:
 Reference: 
 1. https://blog.dareboost.com/en/2020/05/preload-prefetch-preconnect-resource-hints/
 
-## CSS Basic Module:                                   
+## CSS Basic:                                   
 - [ ] Introduction to CSS 
 - [ ] CSS Selectors 
 - [ ] Inline, Internal, and External CSS 
@@ -75,7 +75,7 @@ Reference:
 https://flukeout.github.io/
 
 
-## JS Module
+## JS
 
 ### JS Module 1:  
  
@@ -367,7 +367,7 @@ Task:
 
 
 
-## Vue.js Training
+## Vue.js
 
 ### Module 1:                                                   
 - [ ] Vue.js : Introduction
@@ -381,7 +381,7 @@ Task:
 Task:
 - [ ] Create a basic “Hello World!” Vue application.
 
-Module 2:                                                                                             Expected: 8 hours
+### Module 2:
 - [ ] Declarative Rendering
 - [ ] Conditionals and Loops
 - [ ] Class and Style Bindings
@@ -392,7 +392,7 @@ Module 2:                                                                       
 Task:
 - [ ] Create a  new branch from last task and Implement a Login and Registration page
 
-Module 3:                                                                                             Expected: 8 hours
+### Module 3:
 - [ ] Transitions
 - [ ] Props
 - [ ] Filters
