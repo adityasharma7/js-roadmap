@@ -77,6 +77,13 @@ https://flukeout.github.io/
 
 ## JS
 
+
+### Recommended courses
+- [Javascript Essentials](https://www.udemy.com/course/javascript-essentials/) by Lawrence Turton (Udemy Free)
+- Namaste JavaScript [Season 1](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) and [Season 2](https://www.youtube.com/playlist?list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX) by Akshay Saini (YouTube)
+
+
+
 ### JS Module 1:  
  
 - [ ] Introduction to JavaScript 
@@ -512,6 +519,9 @@ Reference:
 
 ### Builder pattern
 - [JavaScript Design Patterns #10 - Builder Pattern by  DevSage](https://youtu.be/McF9ak0kKjA)
+
+
+
 
 
 
