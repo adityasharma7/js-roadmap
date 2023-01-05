@@ -125,6 +125,9 @@ Note: Use loops for above problems
     1. console.log(typeof undefined)  
     2. console.log(typeof null)
 
+Higly recomended:
+1. [let & const in JS 🔥Temporal Dead Zone | | Namaste JavaScript Ep. 8](https://www.youtube.com/watch?v=BNC6slYCj50)
+
 
 ### JS Module 2:
 - [ ] Objects and its methods (Object.keys(), values(), entries())
